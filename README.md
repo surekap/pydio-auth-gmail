@@ -1,5 +1,7 @@
 # Pydio Auth Plugin for Gmail
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/surekap/pydio-auth-gmail/badges/quality-score.png?s=ef3bd1ffe67cd38757b030c21800ecf6c86e009d)](https://scrutinizer-ci.com/g/surekap/pydio-auth-gmail/)
+
 [GitHub-Repository](https://github.com/surekap/pydio-auth-gmail) |
 [Issue-Tracker](https://github.com/surekap/pydio-auth-gmail/issues) |
 
